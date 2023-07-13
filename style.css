@@ -1,3 +1,42 @@
-p{
-    color:red;
+.p{
+    color:orange;
+    background-color: aqua;
+    height: 50%;
+    width: 50%;
+    font-size: 20px;
+}
+#first{
+    color: rgb(78, 132, 214);
+}
+.see{
+    color: red;
+}
+.hot{
+    color: blue;
+}
+.div{
+    background-color: brown;
+    border: 25px solid yellow;
+    border-radius: 10px;
+    margin: 50px 50px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-size: 16px;
+}
+span{
+    color:blueviolet;
+}
+.align{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tour{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: bisque;
+}
+strong{
+    color: yellowgreen;
 }
